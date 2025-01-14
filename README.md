@@ -17,7 +17,7 @@ Bu proje, ASP.NET Core kullanılarak geliştirilmiş bir ürün yönetim API'sid
 - Swagger UI
 
 
-```
+
 
 ## API Endpoint'leri
 
